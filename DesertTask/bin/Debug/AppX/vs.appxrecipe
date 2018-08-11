@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALIENBARO</Machine>
+    <WindowsUser>Brian</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>087a27ba-4a65-439e-84a4-ef1eeec02e8e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Brian</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>8390B3267EA54076EFB0F89028EFED310891EE29A915E7047C975061F19B3AA3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>087a27ba-4a65-439e-84a4-ef1eeec02e8e_1.0.0.0_neutral__gevy8cezwa384</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>087a27ba-4a65-439e-84a4-ef1eeec02e8e_gevy8cezwa384!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>087a27ba-4a65-439e-84a4-ef1eeec02e8e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Brian</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-11T18:54:35.798</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\images\Ocean.jpg">
+      <PackagePath>images\Ocean.jpg</PackagePath>
+      <Modified>2018-08-11T18:49:18.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-08-11T18:54:28.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-21T00:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-21T00:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-21T00:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-21T00:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-21T00:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-21T00:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-21T00:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-08-11T18:37:27.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-08-11T18:37:27.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-11T18:54:35.139</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

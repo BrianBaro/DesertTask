@@ -1,0 +1,16 @@
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bin\Debug\ReverseMap\resources.pri
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bin\Debug\AppxManifest.xml
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bin\Debug\DesertTask.build.appxrecipe
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\ResourceHandlingTask.state
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\priconfig.xml
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\priconfig.xml.intermediate
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\layout.resfiles
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\layout.resfiles.intermediate
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\resources.resfiles
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\resources.resfiles.intermediate
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\pri.resfiles
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\pri.resfiles.intermediate
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\qualifiers.txt
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\qualifiers.txt.intermediate
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\brian\documents\visual studio 2015\Projects\DesertTask\DesertTask\bld\Debug\ProjectArchitectures.txt
