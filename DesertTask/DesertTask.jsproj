@@ -58,6 +58,7 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="images\Desert.jpg" />
     <Content Include="images\Ocean.jpg" />
     <Content Include="index.html" />
     <Content Include="js\main.js" />
